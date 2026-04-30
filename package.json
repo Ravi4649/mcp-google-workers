@@ -1,5 +1,5 @@
 {
-  "name": "@ravizin/mcp-google-workers",
+  "name": "@ravizin-dev/mcp-google-workers",
   "version": "1.0.1",
   "description": "MCP server for Google Workspace integration (Gmail, Drive, Calendar)",
   "main": "dist/index.js",
